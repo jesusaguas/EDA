@@ -1,0 +1,136 @@
+inscripcion CERRADA: Bart Simpson;OK: 0||F: 0||P: 0||D: Multiplicate por cero
+INSERCION REALIZADA: 12:::-
+<*De que color era el Caballo Blanco de Santiago?*>:
+<A) Blanco ; B) Purpura ; OK: 1>
+NO ES POSIBLE iniciar JUEGO
+SIN GANADORES
+INSERCION REALIZADA: 11:::-
+<*2+2 son...*>:
+<A) 356 ; B) 4 ; OK: 2>
+INSERCION REALIZADA: 41:::-
+<*Esta pregunta va a ser borrada?*>:
+<A) Si ; B) No ; OK: 1>
+PREGUNTA BORRADA: 41
+--- LISTADO DE PREGUNTAS ---
+TOTAL preguntas: 2
+[11:::-
+<*2+2 son...*>:
+<A) 356 ; B) 4 ; OK: 2>
+]
+[12:::-
+<*De que color era el Caballo Blanco de Santiago?*>:
+<A) Blanco ; B) Purpura ; OK: 1>
+]
+------CONSULTA candidato DESCARTADA
+INSERCION REALIZADA: 41:::-
+<*Que le dice un arbol a otro*>:
+<A) Que pasa tronco ; B) Nada porque los arboles no hablan ; OK: 2>
+BORRADO DESCARTADO: 6
+INSERCION REALIZADA: 20:::-
+<*Que cancion mola mas?*>:
+<A) El barquito chiquitito ; B) Despacito ; OK: 2>
+INSCRIPCION ABIERTA
+********** ESTADO del CONCURSO **********
+FASE: Inscripcion
+LIMITES maximos-> Pases: 2 Fallos: 2 Ganadores: 1
+-*- LISTADO DE CONCURSANTES -*-
+TOTAL concursantes: 0
+-*-*-*-
+--- LISTADO DE PREGUNTAS ---
+TOTAL preguntas: 4
+[11:::-
+<*2+2 son...*>:
+<A) 356 ; B) 4 ; OK: 2>
+]
+[12:::-
+<*De que color era el Caballo Blanco de Santiago?*>:
+<A) Blanco ; B) Purpura ; OK: 1>
+]
+[20:::-
+<*Que cancion mola mas?*>:
+<A) El barquito chiquitito ; B) Despacito ; OK: 2>
+]
+[41:::-
+<*Que le dice un arbol a otro*>:
+<A) Que pasa tronco ; B) Nada porque los arboles no hablan ; OK: 2>
+]
+------
+******************************
+participante INSCRITO: Bart Simpson;OK: 0||F: 0||P: 0||D: Multiplicate por cero
+INSERCION DESCARTADA: 54:::-
+<*Se puede anyadir la pregunta?*>:
+<A) Si ; B) No ; OK: 2>
+participante INSCRITO: Pablo Motos;OK: 0||F: 0||P: 0||D: Antena 3
+-*- LISTADO DE CONCURSANTES -*-
+TOTAL concursantes: 2
+[Bart Simpson:::OK: 0||F: 0||P: 0||D: Multiplicate por cero]
+[Pablo Motos:::OK: 0||F: 0||P: 0||D: Antena 3]
+-*-*-*-INICIANDO JUEGO: 2
+SIN GANADORES
++++ RESPONDE CONCURSANTE +++
+CONCURSANTE: Bart Simpson;OK: 0||F: 0||P: 0||D: Multiplicate por cero
+PREGUNTA: <*2+2 son...*>:
+<A) 356 ; B) 4 ; OK: 2>
+RESPUESTA DADA: 1 TIEMPO: 23:59
++++++++++++
+********** ESTADO del CONCURSO **********
+FASE: Juego
+LIMITES maximos-> Pases: 2 Fallos: 2 Ganadores: 1
+JUGANDO concursante: Pablo Motos
+-*- LISTADO DE CONCURSANTES -*-
+TOTAL concursantes: 2
+[Bart Simpson:::OK: 0||F: 1||P: 0||D: Multiplicate por cero]
+[Pablo Motos:::OK: 0||F: 0||P: 0||D: Antena 3]
+-*-*-*-
+--- LISTADO DE PREGUNTAS ---
+TOTAL preguntas: 4
+[11:::23:59
+<*2+2 son...*>:
+<A) 356 ; B) 4 ; OK: 2>
+]
+[12:::-
+<*De que color era el Caballo Blanco de Santiago?*>:
+<A) Blanco ; B) Purpura ; OK: 1>
+]
+[20:::-
+<*Que cancion mola mas?*>:
+<A) El barquito chiquitito ; B) Despacito ; OK: 2>
+]
+[41:::-
+<*Que le dice un arbol a otro*>:
+<A) Que pasa tronco ; B) Nada porque los arboles no hablan ; OK: 2>
+]
+------
+******************************
++++ RESPONDE CONCURSANTE +++
+CONCURSANTE: Pablo Motos;OK: 0||F: 0||P: 0||D: Antena 3
+PREGUNTA: <*De que color era el Caballo Blanco de Santiago?*>:
+<A) Blanco ; B) Purpura ; OK: 1>
+RESPUESTA DADA: 1 TIEMPO: 21:30
++++++++++++
++++ RESPONDE CONCURSANTE +++
+CONCURSANTE: Bart Simpson;OK: 0||F: 1||P: 0||D: Multiplicate por cero
+PREGUNTA: <*Que cancion mola mas?*>:
+<A) El barquito chiquitito ; B) Despacito ; OK: 2>
+RESPUESTA DADA: 0 TIEMPO: 11:15
++++++++++++
+PREGUNTA MARCADA: 20;4:23
++++ RESPONDE CONCURSANTE +++
+CONCURSANTE: Pablo Motos;OK: 1||F: 0||P: 0||D: Antena 3
+PREGUNTA: <*Que le dice un arbol a otro*>:
+<A) Que pasa tronco ; B) Nada porque los arboles no hablan ; OK: 2>
+RESPUESTA DADA: 0 TIEMPO: 18:0
++++++++++++
+inscripcion CERRADA: John Cena;OK: 0||F: 0||P: 0||D: El despiadado
++++ RESPONDE CONCURSANTE +++
+CONCURSANTE: Bart Simpson;OK: 0||F: 1||P: 1||D: Multiplicate por cero
+PREGUNTA: <*Que le dice un arbol a otro*>:
+<A) Que pasa tronco ; B) Nada porque los arboles no hablan ; OK: 2>
+RESPUESTA DADA: 1 TIEMPO: 10:0
+CONCURSANTE ELIMINADO
++++++++++++
+<<< CONCURSANTES GANADORES >>>
+-*- LISTADO DE CONCURSANTES -*-
+TOTAL concursantes: 1
+[Pablo Motos:::OK: 1||F: 0||P: 1||D: Antena 3]
+-*-*-*-
