@@ -1,0 +1,72 @@
+***** Ronda en fase: INSCRIPCION
+TOTAL: 0
+*****
+participante INSCRITO: Messi;OK: 0||F: 0||P: 0||D: Argentina
+participante INSCRITO: Cristiano;OK: 0||F: 0||P: 0||D: El Bicho
+CONSULTA candidato DESCARTADA
+CAMBIO de turno DESCARTADO
+participante INSCRITO: Perico;OK: 0||F: 0||P: 0||D: De los Palotes
+ACTUALIZACION candidato DESCARTADA
+participante INSCRITO: Britney Spears;OK: 0||F: 0||P: 0||D: EEUU
+***** Ronda en fase: INSCRIPCION
+TOTAL: 4
+[Britney Spears:::OK: 0||F: 0||P: 0||D: EEUU]
+[Cristiano:::OK: 0||F: 0||P: 0||D: El Bicho]
+[Messi:::OK: 0||F: 0||P: 0||D: Argentina]
+[Perico:::OK: 0||F: 0||P: 0||D: De los Palotes]
+*****
+participante BORRADO: Messi
+***** Ronda en fase: INSCRIPCION
+TOTAL: 3
+[Britney Spears:::OK: 0||F: 0||P: 0||D: EEUU]
+[Cristiano:::OK: 0||F: 0||P: 0||D: El Bicho]
+[Perico:::OK: 0||F: 0||P: 0||D: De los Palotes]
+*****
+inscripcion CERRADA con participantes TOTALES: 3
+inscripcion CERRADA: Manu;OK: 0||F: 0||P: 0||D: Manuela
+***** Ronda en fase: SELECCION
+TOTAL: 3
+[Britney Spears:::OK: 0||F: 0||P: 0||D: EEUU]
+[Cristiano:::OK: 0||F: 0||P: 0||D: El Bicho]
+[Perico:::OK: 0||F: 0||P: 0||D: De los Palotes]
+TURNO en candidato: Britney Spears
+*****
+participante ENCONTRADO: Perico;OK: 0||F: 0||P: 0||D: De los Palotes
+BORRADO participante DESCARTADO: 
+CIERRE de inscripcion DESCARTADO
+TURNO en candidato: Cristiano;OK: 0||F: 0||P: 0||D: El Bicho
+CANDIDATO a evaluar: Cristiano;OK: 0||F: 0||P: 0||D: El Bicho
+candidato ACTUALIZADO: Cristiano;OK: 0||F: 0||P: 1||D: El Bicho
+TURNO en candidato: Perico;OK: 0||F: 0||P: 0||D: De los Palotes
+candidato ACTUALIZADO: Perico;OK: 1||F: 0||P: 0||D: De los Palotes
+***** Ronda en fase: SELECCION
+TOTAL: 3
+[Britney Spears:::OK: 0||F: 0||P: 0||D: EEUU]
+[Cristiano:::OK: 0||F: 0||P: 1||D: El Bicho]
+[Perico:::OK: 1||F: 0||P: 0||D: De los Palotes]
+TURNO en candidato: Perico
+*****
+candidato ACTUALIZADO: Perico;OK: 2||F: 0||P: 0||D: De los Palotes
+candidato ACTUALIZADO: Perico;OK: 2||F: 1||P: 0||D: De los Palotes
+TURNO en candidato: Britney Spears;OK: 0||F: 0||P: 0||D: EEUU
+***** Ronda en fase: SELECCION
+TOTAL: 3
+[Britney Spears:::OK: 0||F: 0||P: 0||D: EEUU]
+[Cristiano:::OK: 0||F: 0||P: 1||D: El Bicho]
+[Perico:::OK: 2||F: 1||P: 0||D: De los Palotes]
+TURNO en candidato: Britney Spears
+*****
+candidato ELIMINADO: Britney Spears;OK: 0||F: 0||P: 0||D: EEUU
+***** Ronda en fase: SELECCION
+TOTAL: 2
+[Cristiano:::OK: 0||F: 0||P: 1||D: El Bicho]
+[Perico:::OK: 2||F: 1||P: 0||D: De los Palotes]
+TURNO en candidato: Cristiano
+*****
+candidato ELIMINADO: Cristiano;OK: 0||F: 0||P: 1||D: El Bicho
+candidato ELIMINADO: Perico;OK: 2||F: 1||P: 0||D: De los Palotes
+ronda VACIA
+***** Ronda en fase: SELECCION
+TOTAL: 0
+TURNO en candidato: ---
+*****
